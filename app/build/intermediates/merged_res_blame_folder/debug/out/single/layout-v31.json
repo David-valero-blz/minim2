@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\marcm\\Downloads\\Android-main\\Android-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout-v31\\activity_main.xml",
+        "source": "C:\\Users\\marcm\\Downloads\\Android-main\\Android-main\\app\\src\\main\\res\\layout-v31\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcm\\Downloads\\Android-main\\Android-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout-v31\\activity_login.xml",
+        "source": "C:\\Users\\marcm\\Downloads\\Android-main\\Android-main\\app\\src\\main\\res\\layout-v31\\activity_login.xml"
+    }
+]

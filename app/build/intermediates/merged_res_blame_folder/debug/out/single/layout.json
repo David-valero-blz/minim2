@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\marcm\\Downloads\\Android-main\\Android-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\marcm\\Downloads\\Android-main\\Android-main\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcm\\Downloads\\Android-main\\Android-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_forget.xml",
+        "source": "C:\\Users\\marcm\\Downloads\\Android-main\\Android-main\\app\\src\\main\\res\\layout\\activity_forget.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcm\\Downloads\\Android-main\\Android-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\marcm\\Downloads\\Android-main\\Android-main\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcm\\Downloads\\Android-main\\Android-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_profile.xml",
+        "source": "C:\\Users\\marcm\\Downloads\\Android-main\\Android-main\\app\\src\\main\\res\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcm\\Downloads\\Android-main\\Android-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "C:\\Users\\marcm\\Downloads\\Android-main\\Android-main\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcm\\Downloads\\Android-main\\Android-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_menu.xml",
+        "source": "C:\\Users\\marcm\\Downloads\\Android-main\\Android-main\\app\\src\\main\\res\\layout\\activity_menu.xml"
+    }
+]
